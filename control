@@ -1,0 +1,9 @@
+Package: com.wyattgahm.snapmonkey
+Name: snapmonkey
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hehe monkie
+Maintainer: Wyatt Gahm
+Author: Wyatt Gahm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
