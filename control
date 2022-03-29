@@ -6,4 +6,4 @@ Description: Hehe monkie
 Maintainer: Wyatt Gahm
 Author: Wyatt Gahm
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate, com.opa334.choicy
